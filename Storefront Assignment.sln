@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Storefront Assignment", "Storefront Assignment\Storefront Assignment.csproj", "{723CCAB5-B9D8-4100-B93E-DE13D7A5F164}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{723CCAB5-B9D8-4100-B93E-DE13D7A5F164}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{723CCAB5-B9D8-4100-B93E-DE13D7A5F164}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{723CCAB5-B9D8-4100-B93E-DE13D7A5F164}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{723CCAB5-B9D8-4100-B93E-DE13D7A5F164}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
